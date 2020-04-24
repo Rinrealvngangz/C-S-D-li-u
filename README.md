@@ -1,2 +1,2 @@
-# C-S-D-li-u
+# CSDL_SQL
 Bài Lab Môn Cơ sơ dữ liệu
